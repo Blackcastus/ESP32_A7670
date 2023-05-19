@@ -13,5 +13,10 @@ Designer: Mr.Duc_Hien
 - Kiếm lại IC UART - I2C chp bộ BMS.
 - Thêm RS485 viết bằng software uart.
 
+## Hồ sơ đặc tả tủ lạnh di đông.
+
+[Mô tả tủ lạnh di động](./Mota_TuLanhDiDong.pdf)
+
 ## Block diagram.
 ![image](./Block%20Diagram.png)
+
