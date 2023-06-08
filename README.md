@@ -84,9 +84,15 @@ Designer: Mr.Duc_Hien
 
     Top 3D
 
-    ![imge](./image/ph_portable_refrigerator_display_v2_3D_top.png)
+    ![image](./image/ph_portable_refrigerator_display_v2_3D_top.png)
 
     Bottom 3D
 
-    ![imge](./image/ph_portable_refrigerator_display_v2_3D_bottom.png)
+    ![image](./image/ph_portable_refrigerator_display_v2_3D_bottom.png)
+
+    Board sau khi hàn 
+
+    ![image](./image/Board_MCU_DISPLAY.jpg)
+
+    ![image](./image/Board_MCU_DISPLAY_b.jpg)
 
