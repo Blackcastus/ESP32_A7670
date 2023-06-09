@@ -1,5 +1,3 @@
-# ph_portable_refrigerator_v2_hw
-
 Designer: Mr.Duc_Hien
 
 ## Lưu ý thiết kế Hardware.
@@ -12,10 +10,6 @@ Designer: Mr.Duc_Hien
 - Chú ý căn chỉnh LCD cho khớp với vỏ tủ.
 - Kiếm lại IC UART - I2C chp bộ BMS.
 - Thêm RS485 viết bằng software uart.
-
-## Hồ sơ đặc tả tủ lạnh di đông.
-
-[Mô tả tủ lạnh di động](./Mota_TuLanhDiDong.pdf)
 
 ## Block diagram.
 ![image](./Block%20Diagram.png)
